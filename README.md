@@ -1,2 +1,26 @@
-# customtkinter-password-generator
-A sleek, modern desktop Password Generator built with Python and CustomTkinter, featuring dynamic lengths, entropy character selection, and a one-click clipboard copy function.
+# CustomTkinter Password Generator
+
+A sleek, modern desktop Password Generator application built with Python and the `customtkinter` library. It features an intuitive user interface, dynamic string length configurations, customizable character filters, and a native dark theme layout.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/YOUR_ASSET_ID_HERE" alt="Password Generator Preview" width="350">
+</p>
+
+## 🚀 Features
+
+* **Modern Dark UI:** Beautifully styled design using CustomTkinter components with smooth blue accent configurations.
+* **Dynamic Length Control:** Sliders that let users seamlessly customize their key strength anywhere from 6 to 24 characters.
+* **Character Character Filtering:** Toggles to include or isolate combinations of letters, numbers, and special symbols (`!@#$`).
+* **Instant Clipboard Export:** A secondary button grid control allowing users to copy generated values directly with dynamic confirmation checkmarks.
+* **Safe Crash Defenses:** Protected runtime operations wrapped in `try-except` blocks to handle empty states without crashing the application.
+
+## 🛠️ Prerequisites
+
+Before running this project, you will need to have Python installed on your machine.
+
+## 📦 Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/OlehDatsyk/customtkinter-password-generator.git](https://github.com/OlehDatsyk/customtkinter-password-generator.git)
+   cd customtkinter-password-generator
