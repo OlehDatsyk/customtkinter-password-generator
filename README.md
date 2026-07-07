@@ -4,11 +4,8 @@ A sleek, modern desktop Password Generator application built with Python and the
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2a344a90-92eb-4182-920c-784834c14257" alt="Password Generator Preview" width="350">
+  <img src="https://github.com/user-attachments/assets/833d544d-ca33-4c43-b10a-1198507c2b03" alt="Password Generator Preview" width="350">
 </p>
-
-
-<img width="527" height="710" alt="image" src="https://github.com/user-attachments/assets/833d544d-ca33-4c43-b10a-1198507c2b03" />
-
 
 ## 🚀 Features
 
