@@ -3,9 +3,9 @@ setlocal enabledelayedexpansion
 title Secure Pass Gen - Startup
 cd /d "%~dp0"
 
-echo ============================================
-echo   Secure Pass Gen - Windows Startup Script
-echo ============================================
+echo ======================================================================
+echo   Secure Pass Gen - Windows Startup Script (Was made by Oleh Datsyk)
+echo ======================================================================
 echo.
 
 REM --- Step 1: Verify Python is installed ---

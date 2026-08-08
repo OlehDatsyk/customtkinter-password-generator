@@ -6,9 +6,9 @@
 
 cd "$(dirname "$0")"
 
-echo "============================================"
-echo "  Secure Pass Gen - macOS Startup Script"
-echo "============================================"
+echo "===================================================================="
+echo "  Secure Pass Gen - macOS Startup Script (Was made by Oleh Datsyk)"
+echo "===================================================================="
 echo
 
 fail() {
